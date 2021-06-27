@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;500;700&display=swap');
+body{
+ font-family: 'Roboto Slab', serif;
+}
 
 .navbar{
   padding: .8rem;
@@ -24,22 +28,33 @@ position: absolute;
 
 .carousel-caption h1{
   font-size: 4.5vw;
-  text-shadow: 1px 1px 10px #222;
-  color: whitesmoke;
+  font-weight: 700;
+  text-shadow: 1px 1px 4px #222222;
+  color: darkorange;
 }
 
 .carousel-caption h3{
   font-size: 2vw;
   font-weight: 500;
-  text-shadow: 1px 1px 20px black;
-  color: whitesmoke;
+  text-shadow: 1px 1px 7px #222222;
+  color: orange;
 }
 
 @media only screen and (max-width: 1100px) {
   .carousel-caption{
    top:40%;
+    animation: none;
   }
 }
+
+@media only screen and (max-width: 992px) {
+  .navbar-nav li {
+    margin: 0 auto;
+  }
+}
+
+
+
 .welcome{
   width: 75%;
   margin: 0 auto;
@@ -50,7 +65,13 @@ position: absolute;
   margin-top: .3rem;
   margin-bottom: 1rem;
 }
-.fa-code{
+.fa-twitch{
+  color: #6441a5;
+  font-size: 4em;
+  margin: 1rem;
+}
+
+.fa-hourglass-half{
   color: darkorange;
   font-size: 4em;
   margin: 1rem;
