@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "",
   "keywords": "media, publishing, streaming, photo, video, sound",
-  "license": "",
   "author": "Patrik Horvat",
+  "license": "",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",

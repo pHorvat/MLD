@@ -86,7 +86,8 @@ body a{
   margin: 1rem;
 }
 
-.fa-clipboard-list, .fa-comments, .fa-desktop, .fa-user-tie, .fa-video, .fa-users, .fa-cloud-upload-alt, .fa-helicopter, .fa-film{
+.fa-clipboard-list, .fa-comments, .fa-desktop, .fa-user-tie, .fa-video, .fa-users, .fa-cloud-upload-alt, .fa-helicopter, .fa-film,
+.fa-globe-europe, .fa-calendar-alt, .fa-star{
   font-size: 4em;
   margin: 1rem;
   color: darkorange;
@@ -96,7 +97,9 @@ body a{
   margin: 0 auto;
 }
 
-
+.carousel-indicators{
+ color: darkorange;
+}
 
 /* FOOTER */
 

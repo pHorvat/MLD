@@ -1,6 +1,6 @@
 {
-  "short_name": "",
-  "name": "",
+  "short_name": "MDL",
+  "name": "Media Libellorum Domus",
   "icons": [{
     "src": "icon.png",
     "type": "image/png",
