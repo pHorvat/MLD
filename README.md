@@ -1,3 +1,3 @@
-<img src="https://img.shields.io/github/languages/code-size/badges/shields.svg" alt="code-size">
+<img src="https://img.shields.io/github/repo-size/pHorvat/MLD" alt="code-size">
 
 # MLD
