@@ -22,11 +22,40 @@
       "brojOdeljka": "4",
       "nazivOdeljka": "Povrede očnih kapaka"
     },
-
     {
       "deo": "2",
       "brojOdeljka": "5",
       "nazivOdeljka": "Distihijaza"
+    },
+    {
+      "deo": "2",
+      "brojOdeljka": "6",
+      "nazivOdeljka": "Ektopična cilija (trepavica)"
+    },
+    {
+      "deo": "2",
+      "brojOdeljka": "7",
+      "nazivOdeljka": "Trihijaza (Trichiasis)"
+    },
+    {
+      "deo": "2",
+      "brojOdeljka": "8",
+      "nazivOdeljka": "Sindrom prekomernog izlivanja suza iz očnog korita (epifora)"
+    },
+    {
+      "deo": "2",
+      "brojOdeljka": "9",
+      "nazivOdeljka": "Entropijum"
+    },
+    {
+      "deo": "2",
+      "brojOdeljka": "10",
+      "nazivOdeljka": "Ektropijum"
+    },
+    {
+      "deo": "2",
+      "brojOdeljka": "11",
+      "nazivOdeljka": "Kombinovani entropijum i ektropijum"
     }
   ]
 }
